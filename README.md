@@ -19,10 +19,9 @@ _A Python script to spread love and joy through colorful, overlapping hearts._
 
 ## 💻 **Demo**
 
+### 💕 **Full Gradient Hearts**  
+
 ![Demo Preview](https://github.com/ChiranjeewaPeellawatta/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
-
-
-*(Add a GIF or screenshot of your program here!)*
 
 ---
 
@@ -56,14 +55,6 @@ python HeartsSYS.py
    ```python
    t.write("Your Custom Message", align="center", font=("Verdana", 15, "bold"))
    ```
-
----
-
-## 📸 **Screenshots**
-
-### 💕 **Full Gradient Hearts**  
-*(Example image or GIF of the output)*  
-![Preview Image]([https://github.com/ChiranjeewaPeellawatta/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
 
 ---
 
