@@ -7,3 +7,5 @@ def draw_heart(w, h, color):
     t.goto(0, 0)
     t.down()
     t.fillcolor(color)
+    t.begin_fill()
+    
