@@ -96,8 +96,8 @@ Special thanks to Python’s `turtle` library for making graphics fun and easy t
 
 ## 💌 **Connect with Me**
 - 🌐 **Portfolio**: [Your Portfolio Link]
-- 🐦 **Twitter(X)**: [@YourUsername](https://twitter.com/YourUsername)
-- 👔 **LinkedIn**: [Your Name](https://linkedin.com/in/YourName)
-- 👍 **Facebook**: [Your Name](https://linkedin.com/in/YourName)
+- 🐦 **Twitter(X)**: [DJ_RaaX](https://x.com/DJ_RaaX)
+- 👔 **LinkedIn**: [Chiranjeewa Lankeshwara](https://www.linkedin.com/in/chiranjeewa-lankeshwara-453866305/)
+- 👍 **Facebook**: [Chiranjeewa Lankeshwara]([https://linkedin.com/in/YourName](https://www.facebook.com/chiranjeewalankeshwara))
 
 Spread the love with `HeartsSYS`! 💝  
