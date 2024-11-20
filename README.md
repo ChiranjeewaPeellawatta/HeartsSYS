@@ -19,8 +19,9 @@ _A Python script to spread love and joy through colorful, overlapping hearts._
 
 ## 💻 **Demo**
 
-![Demo Preview](https://github.com/ChiranjeewaPeellawatta/HeartsSYS/commit/3f9657ae439ab2e96f92649988ee19acdef4f972)  
-*(Add a GIF or screenshot of your program here!)*
+### 💕 **Full Gradient Hearts**  
+
+![Demo Preview](https://github.com/ChiranjeewaPeellawatta/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
 
 ---
 
@@ -54,14 +55,6 @@ python HeartsSYS.py
    ```python
    t.write("Your Custom Message", align="center", font=("Verdana", 15, "bold"))
    ```
-
----
-
-## 📸 **Screenshots**
-
-### 💕 **Full Gradient Hearts**  
-*(Example image or GIF of the output)*  
-![Preview Image](https://github.com/ChiranjeewaPeellawatta/HeartsSYS/commit/3f9657ae439ab2e96f92649988ee19acdef4f972)
 
 ---
 
@@ -102,9 +95,9 @@ Special thanks to Python’s `turtle` library for making graphics fun and easy t
 ---
 
 ## 💌 **Connect with Me**
-- 🌐 **Portfolio**: [Your Portfolio Link]
-- 🐦 **Twitter(X)**: [@YourUsername](https://twitter.com/YourUsername)
-- 👔 **LinkedIn**: [Your Name](https://linkedin.com/in/YourName)
-- 👍 **Facebook**: [Your Name](https://linkedin.com/in/YourName)
+- 🌐 **Portfolio**: [HeartsSYS](https://github.com/ChiranjeewaPeellawatta/HeartsSYS)
+- 🐦 **Twitter(X)**: [DJ_RaaX](https://x.com/DJ_RaaX)
+- 👔 **LinkedIn**: [Chiranjeewa Lankeshwara](https://www.linkedin.com/in/chiranjeewa-lankeshwara-453866305/)
+- 👍 **Facebook**: [Chiranjeewa Lankeshwara](https://www.facebook.com/chiranjeewalankeshwara)
 
 Spread the love with `HeartsSYS`! 💝  
