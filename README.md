@@ -18,7 +18,10 @@ _A Python script to spread love and joy through colorful, overlapping hearts._
 ---
 
 ## 💻 **Demo**
-![Demo Preview]([https://github.com/ChiranjeewaPeellawatta/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)  
+
+![Demo Preview](https://github.com/ChiranjeewaPeellawatta/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
+
+
 *(Add a GIF or screenshot of your program here!)*
 
 ---
