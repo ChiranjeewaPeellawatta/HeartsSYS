@@ -59,16 +59,12 @@ python HeartsSYS.py
 ---
 
 ## 🌈 **Why Use HeartsSYS?**
-- Express love in a creative and geeky way! 🧡
-- A fun introduction to Python's `turtle` graphics library. 🐢
-- Share it as a virtual greeting with your loved ones. 💌
+- **Express love** in a creative and geeky way! 🧡  
+- **Learn Python Turtle Graphics**: A fun introduction to Python's graphics capabilities. 🐢  
+- **Share Virtual Greetings**: Perfect for personalized messages to loved ones. 💌  
 
 ---
 
-## 📜 **License**
-This project is licensed under the MIT License. Feel free to modify, distribute, or use it as you wish! See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🤝 **Contributing**
 Contributions are welcome! Here’s how you can help:
@@ -89,15 +85,37 @@ Contributions are welcome! Here’s how you can help:
 
 ---
 
-## 🌟 **Acknowledgements**
-Special thanks to Python’s `turtle` library for making graphics fun and easy to learn. 🎉
+## ✨ **Advanced Customization**  
+
+### **Experiment with Colors**  
+Change the `colors` array to explore creative combinations:  
+```python
+colors = ['#FF0000', '#00FF00', '#0000FF', '#FFFF00', '#FF00FF']
+```
+
+### **Adjust Heart Sizes**  
+Modify the loop for heart sizes:  
+```python
+for i, color in enumerate(colors):
+    draw_heart(16 - i * 2, 16 - i * 2, color)
+```
 
 ---
 
-## 💌 **Connect with Me**
-- 🌐 **Portfolio**: [HeartsSYS](https://github.com/ChiranjeewaPeellawatta/HeartsSYS)
-- 🐦 **Twitter(X)**: [DJ_RaaX](https://x.com/DJ_RaaX)
-- 👔 **LinkedIn**: [Chiranjeewa Lankeshwara](https://www.linkedin.com/in/chiranjeewa-lankeshwara-453866305/)
-- 👍 **Facebook**: [Chiranjeewa Lankeshwara](https://www.facebook.com/chiranjeewalankeshwara)
+## 🌟 **Acknowledgements**  
+Special thanks to Python’s **Turtle Graphics** library for making graphics fun and easy to learn. 🎉  
 
-Spread the love with `HeartsSYS`! 💝  
+---
+
+## 💌 **Connect with Me**  
+🌐 **Portfolio**: [Your Portfolio Link] <br>
+👔 **LinkedIn**: [chiranjeewa-lankeshwara](https://linkedin.com/in/chiranjeewa-lankeshwara-453866305) <br>
+👍 **Facebook**: [chiranjeewalankeshwara](https://facebook.com/chiranjeewalankeshwara) <br>
+📸 **Instagram**: [iam.djraax](https://instagram.com/iam.djraax) <br>
+🐦 **Twitter**: [@DJ_Raax](https://x.com/DJ_RaaX)
+
+---
+
+### **Spread the love with HeartsSYS! 💝** 
+Enjoy creating beautiful hearts and spreading love! 💝<br><br>
+~ Made with ❤️ by Chiranjeewa Peellawatta
