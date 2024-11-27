@@ -9,11 +9,11 @@ _A Python script to spread love and joy through colorful, overlapping hearts._
 
 ---
 
-## 🌟 **Features**
-- 💜 Beautiful, overlapping hearts in a vibrant color gradient.
-- 🌸 Soft and warm background for an elegant design.
-- 📝 Personal message displayed at the center of the final heart.
-- 🎨 Fully customizable color palette and message.
+## 🌟 **Features**  
+- ✨ **Beautiful Designs**: Overlapping hearts in a vibrant color gradient.  
+- 🌸 **Soft Background**: Elegant and soothing aesthetics.  
+- 📝 **Personalized Message**: A custom message displayed in the center.  
+- 🎨 **Customizable**: Modify colors and text easily.
 
 ---
 
@@ -21,7 +21,7 @@ _A Python script to spread love and joy through colorful, overlapping hearts._
 
 ### 💕 **Full Gradient Hearts**  
 
-![Demo Preview](https://github.com/ChiranjeewaPeellawatta/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
+![Hearts Preview](https://github.com/ChiranjeewaPeellawatta/HeartsSYS/blob/main/HeartsSYS.gif?raw=true)
 
 ---
 
