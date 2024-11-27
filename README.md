@@ -1,6 +1,6 @@
 
 # 🌈 HeartsSYS ❤️  
-_A Python script to spread love and joy through colorful, overlapping hearts._
+**_A Python script to spread love and joy through colorful, overlapping hearts._**
 
 ---
 
